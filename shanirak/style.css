@@ -1,0 +1,69 @@
+*{
+    padding: 0;
+    margin:0;
+    background:#eae6f9 ; 
+    color: black;
+    font-family: 'Noto Serif TC', serif;
+   
+}
+.container{
+    
+}
+.h1{
+    text-align: center;
+    color:#6146d5;
+    margin-top: 10px;
+}
+
+
+    
+    
+}
+.col1{
+
+    margin-top: 29px;
+    border: 2px solid  #000;
+    
+}
+.col1 h6{
+    margin:-8px;
+    border: 2px solid  #000;
+}
+.shaniraq{
+    margin-top: 50px;
+    background: #999c86;
+    border: 2px solid  #000;
+}
+.row{margin-top: 90px;
+
+}
+.saty{
+    text-align: center;
+    margin-top: 30px;
+}
+.foto{
+    width: 550px;
+    margin-top: 50px;
+    height: 400px;
+}
+.obzor{
+    background-image: url(img/komnata3.jpg );
+background-repeat:no-repeat;
+height: 400px;
+margin-top: 50px;
+    
+}
+.yandex{
+    
+    text-decoration-color: black;
+    font-size: 20px;
+}
+.nomber{
+    text-align: right;
+
+}
+
+
+
+
+ 
